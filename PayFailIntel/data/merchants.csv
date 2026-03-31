@@ -1,0 +1,201 @@
+merchant_id,name,category
+1,"Mcgrath, Graham and Jensen",Travel
+2,Bryant-Tate,Entertainment
+3,Wall LLC,Food
+4,Kelly PLC,Entertainment
+5,Hayes and Sons,Ecommerce
+6,Smith-Conner,Food
+7,"Manning, Allen and Love",Food
+8,Vasquez-Cochran,Health
+9,Jones Inc,Ecommerce
+10,"Weiss, Roberts and Arnold",Food
+11,"Lopez, Watkins and Benson",Grocery
+12,Gentry Group,Ecommerce
+13,Gomez-Davidson,Food
+14,"Perez, Williams and Hanson",Health
+15,Adams-Smith,Health
+16,"Johnson, Gonzalez and Scott",Entertainment
+17,"Marshall, White and Wood",Health
+18,Paul Inc,Travel
+19,"Hensley, Rogers and Wright",Health
+20,Davis and Sons,Travel
+21,Quinn-Brown,Food
+22,"Everett, Knox and Allen",Grocery
+23,Vaughn Group,Ecommerce
+24,Lester-Roberts,Travel
+25,"Garcia, Crane and Doyle",Food
+26,Huff PLC,Food
+27,Wolfe PLC,Fashion
+28,Scott-Hampton,Entertainment
+29,Ward-Harvey,Ecommerce
+30,"Calderon, Summers and Sanchez",Food
+31,Schwartz Group,Food
+32,"Kane, Perry and Smith",Entertainment
+33,"Hardy, Hoover and Reyes",Grocery
+34,Shelton-Riley,Health
+35,Butler-Dickson,Travel
+36,"Miller, Daniels and House",Entertainment
+37,Burns-Montes,Fashion
+38,Johnson Inc,Health
+39,Smith-Casey,Entertainment
+40,Wilson LLC,Entertainment
+41,Pace-Hernandez,Health
+42,"Gonzalez, Luna and Schmidt",Fashion
+43,Simmons LLC,Entertainment
+44,Galvan-Nelson,Ecommerce
+45,Peterson-Brown,Health
+46,Jordan-Lozano,Entertainment
+47,Madden and Sons,Food
+48,Gardner Group,Ecommerce
+49,Aguilar-Valencia,Entertainment
+50,Martinez Group,Fashion
+51,"Porter, Richardson and Jones",Food
+52,Burton-Sanchez,Ecommerce
+53,Huynh and Sons,Food
+54,"Smith, Sanchez and Norris",Grocery
+55,"Williams, King and Russell",Food
+56,Jordan-Norris,Grocery
+57,Norris Ltd,Fashion
+58,Harris PLC,Travel
+59,Doyle-Valdez,Travel
+60,"Johnson, Reese and Vaughan",Health
+61,Kelley-Hubbard,Food
+62,"Malone, Johnson and Martinez",Entertainment
+63,Shields-Fowler,Food
+64,"Davis, Callahan and Obrien",Ecommerce
+65,Brown-Bell,Grocery
+66,Berg-Ramos,Fashion
+67,"Diaz, Henderson and Jones",Fashion
+68,"Garcia, Clark and Wiley",Food
+69,Schmidt Ltd,Ecommerce
+70,"Miller, Davis and Miller",Travel
+71,Schwartz-Ramos,Grocery
+72,Williams-Allison,Ecommerce
+73,Mcguire-Barrett,Ecommerce
+74,"Taylor, Martin and Camacho",Grocery
+75,Price-White,Ecommerce
+76,"Clark, Paul and Duncan",Ecommerce
+77,Hart-Massey,Food
+78,Sanchez PLC,Ecommerce
+79,Coleman-Riley,Travel
+80,Hatfield Ltd,Travel
+81,Jones-Johnson,Food
+82,"Allen, Dorsey and Wilkinson",Entertainment
+83,Roberts-Mcguire,Health
+84,Bass-Garcia,Fashion
+85,"Ayala, Jacobs and Farmer",Ecommerce
+86,Myers Group,Ecommerce
+87,Kennedy-Nichols,Ecommerce
+88,Taylor-Cruz,Food
+89,Garcia-Stuart,Ecommerce
+90,Sheppard PLC,Ecommerce
+91,Santana-Harding,Entertainment
+92,Turner-Greene,Entertainment
+93,Rocha-Green,Grocery
+94,Stewart and Sons,Ecommerce
+95,Lane PLC,Grocery
+96,Yates LLC,Fashion
+97,Hall LLC,Food
+98,"Rivera, Small and Martinez",Fashion
+99,"Stevenson, Roberts and Conrad",Food
+100,Valenzuela Ltd,Entertainment
+101,Conner LLC,Entertainment
+102,Brown-Myers,Food
+103,"Clay, Wiggins and Kennedy",Ecommerce
+104,Sanchez-Hahn,Fashion
+105,Whitaker-Salinas,Fashion
+106,"Bentley, Franco and Washington",Grocery
+107,Koch-Smith,Travel
+108,Patterson Ltd,Health
+109,Galvan-Wilson,Travel
+110,Rogers-Hale,Food
+111,"Thompson, Taylor and Crane",Fashion
+112,"Sullivan, Murphy and Todd",Travel
+113,Ford and Sons,Fashion
+114,Collins-Evans,Travel
+115,"Townsend, Russell and Thomas",Food
+116,Patterson-Ramirez,Entertainment
+117,"Murphy, Myers and Harrison",Grocery
+118,"Huffman, Lucas and Deleon",Fashion
+119,Crawford Ltd,Ecommerce
+120,Roach-Edwards,Grocery
+121,Boone-Watts,Travel
+122,Wolfe LLC,Fashion
+123,"Rose, Cook and Conway",Food
+124,Stone Group,Travel
+125,"Watson, Smith and Ward",Food
+126,"Moon, Walsh and Mathis",Food
+127,Davis-Lawson,Grocery
+128,Atkinson-Scott,Fashion
+129,Mcintyre-Cuevas,Food
+130,Jackson-Jordan,Food
+131,Wright LLC,Health
+132,Harris Inc,Ecommerce
+133,"Martin, Allen and James",Grocery
+134,Bishop-Smith,Entertainment
+135,Burns-Garcia,Fashion
+136,Willis Group,Grocery
+137,Brown-Wells,Fashion
+138,"Stewart, Macias and Jones",Grocery
+139,Frey LLC,Grocery
+140,Martinez PLC,Travel
+141,"Fletcher, Williamson and Guzman",Travel
+142,Harper-Hanson,Grocery
+143,Miller-Mills,Travel
+144,Dickson-Smith,Fashion
+145,"Lutz, Jones and Martin",Travel
+146,Odonnell-Lowery,Ecommerce
+147,"Smith, Campbell and Skinner",Fashion
+148,Moss-Lewis,Grocery
+149,Moore-Richardson,Ecommerce
+150,"Pennington, Gonzalez and Taylor",Health
+151,"Turner, Cole and Pena",Health
+152,"Murray, Arias and Thomas",Travel
+153,Hernandez-Hickman,Travel
+154,"Sanchez, Parker and Long",Grocery
+155,Gardner-Salazar,Fashion
+156,"Combs, Burgess and Lane",Ecommerce
+157,"Castro, Foster and Wright",Entertainment
+158,Riley-Ward,Fashion
+159,Morales-Conway,Health
+160,Hernandez-Brown,Health
+161,Smith-York,Fashion
+162,"Williams, Anderson and Roberts",Travel
+163,Jackson-Ellis,Grocery
+164,Edwards Inc,Ecommerce
+165,"Sanders, Wright and Glenn",Entertainment
+166,"Scott, Jackson and Walker",Travel
+167,"Ingram, Smith and Krause",Travel
+168,Henderson-Griffin,Ecommerce
+169,"Phillips, Hall and Haynes",Grocery
+170,"Davis, Clark and Mcdaniel",Food
+171,"Johnson, Boyd and Fletcher",Grocery
+172,Lynch Group,Food
+173,Kim PLC,Food
+174,"Mason, Smith and Campbell",Grocery
+175,Mendoza-Rivas,Food
+176,"Adams, Perez and Wyatt",Grocery
+177,Duffy-Vega,Grocery
+178,Maynard LLC,Fashion
+179,Fuller-Beck,Food
+180,"Diaz, Kemp and Henson",Fashion
+181,Gardner-Deleon,Travel
+182,Li-Bell,Fashion
+183,"Sullivan, Ortiz and Sullivan",Grocery
+184,Stephens-Mendoza,Travel
+185,King-Morrow,Grocery
+186,Martin Ltd,Travel
+187,Compton-Flores,Grocery
+188,"Evans, Rodriguez and Evans",Health
+189,"Patrick, Johnson and Miller",Grocery
+190,Boyd and Sons,Travel
+191,Flores-Jefferson,Travel
+192,Phillips-Nguyen,Food
+193,"Campbell, Carroll and Valentine",Health
+194,Mitchell-Mcbride,Food
+195,"Armstrong, Adams and Dunlap",Grocery
+196,"Herrera, Woodard and Rivera",Fashion
+197,"Shaffer, Stephens and West",Grocery
+198,"Kaiser, Rivera and Sanders",Health
+199,Gentry-Haynes,Ecommerce
+200,"Bennett, Davis and Morris",Entertainment

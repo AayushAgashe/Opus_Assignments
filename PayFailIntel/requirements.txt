@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+streamlit
+pypdf
+python-docx
+langchain
+llama-cpp-python
+accelerate
+numpy
+pandas
+langchain_text_splitters

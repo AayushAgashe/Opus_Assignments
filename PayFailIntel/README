@@ -9,3 +9,4 @@ notebooks : all .ipynb files that were run once to get Final dataset, FAISS arti
 outputs : Contains all FAISS Artifacts and our final database for knowledge base, an dataset exploring .ipynb file
 phi2_gguf : supposed to have the LLM model phi-2.Q4_K_M.gguf, do Read this folders README to download the model.
 
+After all steps are done, install everything in requirements.txt, just change a few paths suited to your local machine, run the app.py file in terminal with stremlit run app.py

@@ -1,0 +1,4 @@
+The Local Embedding model used in our project (MiniLM-L3-v2) is incomplete here and only needs one file "pytorch_model.bin" (69mb) to be downloaded from this link: 
+https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L3-v2/blob/main/pytorch_model.bin
+
+Download and paste this in the same folder (local_embedding_model) to run perfectly.

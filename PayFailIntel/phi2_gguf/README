@@ -1,0 +1,4 @@
+Please download the Phi-2 Quantized (CPU-Optimised) version "phi-2.Q4_K_M.gguf" (1.7gb) from the following link: 
+https://huggingface.co/TheBloke/phi-2-GGUF/blob/main/phi-2.Q4_K_M.gguf
+
+Paste this model into this folder (PayFailIntel/phi2_gguf) to use this local LLM.

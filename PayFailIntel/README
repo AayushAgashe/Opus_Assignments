@@ -1,0 +1,11 @@
+Here is what is available in each folder :
+
+Deliverables : Deliverables Documentation
+Presentation : Presentation PDF , Link to Canva PPT
+data : All tables turned into final database (present in outputs folder) as knowledgebase, sourced from github.com/VinayakAKattimani/transaction_failure_analysis
+local_embedding_model : Local Embedding model used in our project (MiniLM-L3-v2), do Read this folders README to complete the model.
+modules : all .py files used during runtime
+notebooks : all .ipynb files that were run once to get Final dataset, FAISS artifacts for knowledge base and also testing rag pipeline and evaluation.
+outputs : Contains all FAISS Artifacts and our final database for knowledge base, an dataset exploring .ipynb file
+phi2_gguf : supposed to have the LLM model phi-2.Q4_K_M.gguf, do Read this folders README to download the model.
+
